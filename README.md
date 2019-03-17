@@ -8,3 +8,4 @@
 * A3: Manhattan Tourist Problem
 * A4: Needleman-Wunsch (2 sequences)
 * A5: Needleman-Wunsch (3 sequences)
+I made some changes
